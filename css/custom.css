@@ -276,13 +276,13 @@ div#archive {
   z-index: 2000;
   position: fixed;
   margin: auto;
-  top: 4px;
+  top: 10px;/*上下高度*/
   left: 0;
   right: 0;
-  height: 8px;
+  height: 8px;/*自身宽度*/
   border-radius: 8px;
-  width: 7rem;
-  background: #eaecf2;
+  width: 12rem;
+  background: #7cee6a;
   border: 1px #e3e8f7;
   overflow: hidden
 }
@@ -312,7 +312,7 @@ div#archive {
   height: 100%;
   width: 100%;
   /* linear-gradient(to right, #3494e6, #ec6ead)   linear-gradient(to right, #43cea2, #3866ca)*/
-  background: linear-gradient(to right, #3494e6, #ec6ead, #18d344);
+  background: linear-gradient(to right, #3494e6, #ec6ead);
   animation: gradient 2s ease infinite;
   background-size: 200%
 }
