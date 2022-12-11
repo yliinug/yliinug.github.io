@@ -69,11 +69,33 @@
     
     
     <entry>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>🎉🎠标签都在这里哦~</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tuku</title>
+      <link href="/tuku/index.html"/>
+      <url>/tuku/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://source.fomal.cc/img/default_cover_61.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">封面专区</div>  <p>本站用作文章封面的图片，不保证分辨率</p>  <a href='/box/Gallery/photo'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://source.fomal.cc/img/dm11.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">背景专区</div>  <p>收藏的一些的背景与壁纸，分辨率很高</p>  <a href='/box/Gallery/wallpaper'></a>  </figcaption>  </figure>  </div><hr><div class="fj-gallery"><p><img src="https://source.fomal.cc/img/default_cover_1.webp" alt="p1"><br><img src="https://source.fomal.cc/img/default_cover_2.webp" alt="p2"><br><img src="https://source.fomal.cc/img/default_cover_3.webp" alt="p3"><br><img src="https://source.fomal.cc/img/default_cover_4.webp" alt="p4"><br><img src="https://source.fomal.cc/img/default_cover_5.webp" alt="p5"><br><img src="https://source.fomal.cc/img/default_cover_6.webp" alt="p6"><br><img src="https://source.fomal.cc/img/default_cover_7.webp" alt="p7"><br><img src="https://source.fomal.cc/img/default_cover_8.webp" alt="p8"><br><img src="https://source.fomal.cc/img/default_cover_9.webp" alt="p9"><br><img src="https://source.fomal.cc/img/default_cover_10.webp" alt="p10"><br><img src="https://source.fomal.cc/img/default_cover_11.webp" alt="p11"><br><img src="https://source.fomal.cc/img/default_cover_12.webp" alt="p12"> </p>          </div>]]></content>
       
     </entry>
     
