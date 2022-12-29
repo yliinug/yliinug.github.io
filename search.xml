@@ -77,28 +77,6 @@
     
     
     <entry>
-      <title>🎉🎠标签都在这里哦~</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>about</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
@@ -115,6 +93,28 @@
       <url>/tuku/index.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://source.fomal.cc/img/default_cover_61.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">封面专区</div>  <p>本站用作文章封面的图片，不保证分辨率</p>  <a href='/img'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://source.fomal.cc/img/dm11.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">背景专区</div>  <p>收藏的一些的背景与壁纸，分辨率很高</p>  <a href='/box/Gallery/wallpaper'></a>  </figcaption>  </figure>  </div><hr><div class="fj-gallery"><!-- ![p1]( https://cdn.staticaly.com/gh/yliinug/pic_bed@main/img/1.webp ) --><!-- ![p2]( https://cdn.staticaly.com/gh/yliinug/pic_bed@main/img/2.webp ) --><!-- ![p3]( https://cdn.staticaly.com/gh/yliinug/pic_bed@main/img/3.webp ) --><!-- ![p4]( https://cdn.staticaly.com/gh/yliinug/pic_bed@main/img/4.webp ) --><!-- ![p5]( https://cdn.staticaly.com/gh/yliinug/pic_bed@main/img/5.webp ) --><!-- ![p6]( https://cdn.staticaly.com/gh/yliinug/pic_bed@main/img/6.webp ) --><!-- ![p7]( https://cdn.staticaly.com/gh/yliinug/pic_bed@main/img/7.webp ) --><!-- ![p8]( https://cdn.staticaly.com/gh/yliinug/pic_bed@main/img/8.webp ) --><!-- ![p9]( https://cdn.staticaly.com/gh/yliinug/pic_bed@main/img/9.webp ) --><!-- ![p10]( https://cdn.staticaly.com/gh/yliinug/pic_bed@main/img/10.webp ) --><!-- ![p11]( https://cdn.staticaly.com/gh/yliinug/pic_bed@main/img/11.webp ) --><!-- ![p12]( https://cdn.staticaly.com/gh/yliinug/pic_bed@main/img/12.webp ) --><!-- ![p13]( https://cdn.staticaly.com/gh/yliinug/pic_bed@main/img/13.webp ) --><!-- ![p14]( https://cdn.staticaly.com/gh/yliinug/pic_bed@main/img/14.webp ) --><!-- ![p15]( https://cdn.staticaly.com/gh/yliinug/pic_bed@main/img/15.webp ) --><!-- ![p16]( https://cdn.staticaly.com/gh/yliinug/pic_bed@main/img/16.webp ) --><!-- ![p17]( https://cdn.staticaly.com/gh/yliinug/pic_bed@main/img/17.webp ) --><!-- ![p18]( https://cdn.staticaly.com/gh/yliinug/pic_bed@main/img/18.webp ) --><!-- ![p19]( https://cdn.staticaly.com/gh/yliinug/pic_bed@main/img/19.webp ) --><!-- ![p20]( https://cdn.staticaly.com/gh/yliinug/pic_bed@main/img/20.webp ) --><!-- ![p21]( https://cdn.staticaly.com/gh/yliinug/pic_bed@main/img/21.webp ) --><!-- ![p22]( https://cdn.staticaly.com/gh/yliinug/pic_bed@main/img/22.webp ) --><!-- ![p23]( https://cdn.staticaly.com/gh/yliinug/pic_bed@main/img/23.webp ) --><!-- ![p24]( https://cdn.staticaly.com/gh/yliinug/pic_bed@main/img/24.webp ) --><!-- ![p25]( https://cdn.staticaly.com/gh/yliinug/pic_bed@main/img/25.webp ) --><!-- ![p26]( https://cdn.staticaly.com/gh/yliinug/pic_bed@main/img/26.webp ) --><p><img src="https://www.hualigs.cn/image/639c42ad4324d.jpg" alt="p1"><br><img src="https://www.hualigs.cn/image/639c4263eba62.jpg" alt="p2"><br><img src="https://www.hualigs.cn/image/639c4201b3542.jpg" alt="p3"><br><img src="https://www.hualigs.cn/image/639c42e17fe8e.jpg" alt="p4"><br><img src="https://www.hualigs.cn/image/639c4244dfb52.jpg" alt="p5"><br><img src="https://www.hualigs.cn/image/639c42ada5a2c.jpg" alt="p6"><br><img src="https://www.hualigs.cn/image/639c42f0dfbce.jpg" alt="p7"><br><img src="https://www.hualigs.cn/image/639c42454b7f8.jpg" alt="p8"><br><img src="https://www.hualigs.cn/image/639c4245a7bfb.jpg" alt="p9"><br><img src="https://www.hualigs.cn/image/639c42ad4324d.jpg" alt="p10"><br><img src="https://www.hualigs.cn/image/639c4281a0d34.jpg" alt="p11"></p>          </div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>🎉🎠标签都在这里哦~</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
     </entry>
     
